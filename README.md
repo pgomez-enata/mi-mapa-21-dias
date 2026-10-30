@@ -10,7 +10,7 @@ Creado para el Tour Intercolegial de la Semana Global de Emprendimiento en Repú
 |---|---|
 | Entender y dar el taller | [Manual metodológico](MANUAL-METODOLOGICO.md) · [PDF](materiales/MANUAL-METODOLOGICO.pdf) |
 | Imprimir el mapa | [Mapa en PDF, carta, doble cara](materiales/MAPA-21-DIAS-carta-BN-doble-cara.pdf) |
-| Adaptarlo a mi aula (PowerPoint, Word, Google Slides/Docs) | [Editables](editables/) |
+| Adaptarlo a mi aula (PowerPoint, Word, Google Slides/Docs) | [Qué trae y cómo usarlos](editables/LEEME.md) · [descargar todo en ZIP](https://github.com/pgomez-enata/mi-mapa-21-dias/releases/latest) |
 | Proyectar o pegar las láminas | [Presentación 16:9](materiales/PRESENTACION-AULA-16x9.pdf) · [6 láminas](materiales/LAMINAS-6-carta-color.pdf) |
 | Saber de dónde viene y qué tan sólido es | [Inspiración y creadores](INSPIRACION-Y-CREADORES.md) · [investigación de base](investigacion/) |
 | Formularios y cartas | [Plantillas](plantillas/) |
