@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "Si usas este manual, cítalo así."
+title: "Mi mapa de 21 días: manual metodológico abierto"
+version: "1.0.0"
+date-released: "2026-10-30"
+license: CC-BY-SA-4.0
+type: dataset
+authors:
+  - family-names: "Gómez"
+    given-names: "Piero"
+    affiliation: "Fundación Enlata · IAvanza"
+  - family-names: "de Windt"
+    given-names: "Horacio"
+    affiliation: "Fundación Ayudar Me Da Vida"
+  - name: "Fundación Enlata"
+  - name: "IAvanza"
+  - name: "Fundación Ayudar Me Da Vida"
+keywords:
+  - educación emprendedora
+  - metas
+  - contraste mental
+  - intenciones de implementación
+  - recursos educativos abiertos
+  - República Dominicana
