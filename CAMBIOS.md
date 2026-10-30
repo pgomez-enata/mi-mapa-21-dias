@@ -1,5 +1,12 @@
 # Cambios
 
+## 1.0.1 · 30-oct-2026
+
+- Línea gráfica del Tour Intercolegial en todos los materiales (carbón, naranja, barra de seis colores), con Nunito en lugar de VAG (libre, SIL OFL).
+- Logos del equipo autor (Fundación Enlata, IAvanza, Fundación Ayudar Me Da Vida) en manual, mapa, láminas y presentación. Sin logo de GEW ni espacio de patrocinadores.
+- Editables nuevos en `editables/`: presentación, láminas y mapa en PowerPoint; manual y plantillas en Word. Con lámina 0 «quién soy» y lámina de créditos.
+- Crédito obligatorio al equipo que desarrolló el material y el contenido (LICENCIA.md, MARCA.md, manual sección 11).
+
 ## 1.0 · 30-oct-2026
 
 Primera versión abierta. Aprobada por Piero Gómez el 30-oct-2026; Horacio de Windt (Fundación Ayudar Me Da Vida) autorizó su coautoría y la mención de la fundación. Parte de la versión 3 del taller del Tour Intercolegial GEW RD 2026 (29-oct-2026) y de la formación de facilitadores del 29-oct-2026.

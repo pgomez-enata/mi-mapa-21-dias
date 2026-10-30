@@ -3,10 +3,10 @@
 
 **Un taller de 50 minutos para que cada joven escoja una cosa de su vida que quiere mejorar y salga con un plan que aguante el día malo.**
 
-Versión 1.0 · 30 de octubre de 2026
+Versión 1.0.1 · 30 de octubre de 2026
 Creado para el Tour Intercolegial de la Semana Global de Emprendimiento en República Dominicana por Fundación Enlata, IAvanza y Fundación Ayudar Me Da Vida.
 
-> **Licencia.** El texto, el mapa y las láminas de este manual se publican bajo Creative Commons Atribución-CompartirIgual 4.0 Internacional (CC BY-SA 4.0): puedes copiarlos, traducirlos, adaptarlos y usarlos, también en programas pagados, siempre que des crédito y compartas tu versión con la misma licencia. Los nombres y logos de las organizaciones **no** entran en la licencia. Los métodos de terceros en los que se apoya el taller tienen sus propios autores y condiciones: ver la sección 11. Detalle en `LICENCIA.md`.
+> **Licencia.** El texto, el mapa y las láminas de este manual se publican bajo Creative Commons Atribución-CompartirIgual 4.0 Internacional (CC BY-SA 4.0): puedes copiarlos, traducirlos, adaptarlos y usarlos, también en programas pagados, siempre que des crédito al equipo autor con la línea de la sección 11 y compartas tu versión con la misma licencia. Los logos del equipo autor van en los materiales, pero no entran en la licencia: se usan tal cual, como dice `MARCA.md`. Los editables (PowerPoint y Word) están en `editables/`. Los métodos de terceros en los que se apoya el taller tienen sus propios autores y condiciones: ver la sección 11. Detalle en `LICENCIA.md`.
 
 ---
 
@@ -318,7 +318,13 @@ Fuentes completas en `INSPIRACION-Y-CREADORES.md`.
 
 **Métodos en los que se apoya:** ver `INSPIRACION-Y-CREADORES.md`. Las cuatro cajas están **inspiradas en WOOP / MCII** (contraste mental con intenciones de implementación). WOOP y sus materiales son obra de Gabriele Oettingen (© Gabriele Oettingen) y su nombre se respeta como suyo; las intenciones de implementación son de Peter Gollwitzer. «Mi mapa de 21 días» es una adaptación propia, con palabras propias, **no es WOOP ni está avalada** por sus autores ni por sus instituciones.
 
+**Crédito obligatorio** (en toda copia, presentación o adaptación; ya viene en el pie de los materiales y editables):
+
+> Material y contenido del taller desarrollados por el equipo de **Fundación Enlata, IAvanza y Fundación Ayudar Me Da Vida** para el Tour Intercolegial (República Dominicana, 2026). «Mi mapa de 21 días», licencia CC BY-SA 4.0: https://pgomez-enata.github.io/mi-mapa-21-dias
+
+Si cambiaste algo, agrega «Adaptado por [tu organización]: [qué cambiaste]». Si cambias el núcleo estable (sección 9), quita los logos y usa otro nombre.
+
 **Cómo citar:**
-Gómez, P., de Windt, H., Fundación Enlata, IAvanza y Fundación Ayudar Me Da Vida (2026). *Mi mapa de 21 días: manual metodológico abierto* (versión 1.0). CC BY-SA 4.0.
+Gómez, P., de Windt, H., Fundación Enlata, IAvanza y Fundación Ayudar Me Da Vida (2026). *Mi mapa de 21 días: manual metodológico abierto* (versión 1.0.1). CC BY-SA 4.0.
 
 **Cómo contribuir:** ver `CONTRIBUIR.md`. Si lo diste, cuéntanos qué cambiaste y qué pasó: las mejoras vuelven al manual.

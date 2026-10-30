@@ -10,6 +10,7 @@ Creado para el Tour Intercolegial de la Semana Global de Emprendimiento en Repú
 |---|---|
 | Entender y dar el taller | [Manual metodológico](MANUAL-METODOLOGICO.md) · [PDF](materiales/MANUAL-METODOLOGICO.pdf) |
 | Imprimir el mapa | [Mapa en PDF, carta, doble cara](materiales/MAPA-21-DIAS-carta-BN-doble-cara.pdf) |
+| Adaptarlo a mi aula (PowerPoint, Word, Google Slides/Docs) | [Editables](editables/) |
 | Proyectar o pegar las láminas | [Presentación 16:9](materiales/PRESENTACION-AULA-16x9.pdf) · [6 láminas](materiales/LAMINAS-6-carta-color.pdf) |
 | Saber de dónde viene y qué tan sólido es | [Inspiración y creadores](INSPIRACION-Y-CREADORES.md) · [investigación de base](investigacion/) |
 | Formularios y cartas | [Plantillas](plantillas/) |
@@ -17,11 +18,15 @@ Creado para el Tour Intercolegial de la Semana Global de Emprendimiento en Repú
 
 ## Licencia
 
-Contenido: CC BY-SA 4.0. Código (`herramientas/`): MIT. Nombres y logos: fuera de la licencia. Ver [LICENCIA.md](LICENCIA.md). Cómo citarlo: [CITATION.cff](CITATION.cff).
+Contenido y editables: CC BY-SA 4.0, con **crédito obligatorio al equipo autor**:
+
+> Material y contenido del taller desarrollados por el equipo de **Fundación Enlata, IAvanza y Fundación Ayudar Me Da Vida** para el Tour Intercolegial (República Dominicana, 2026). «Mi mapa de 21 días», licencia CC BY-SA 4.0: https://pgomez-enata.github.io/mi-mapa-21-dias
+
+Código (`herramientas/`): MIT. Logos: van en los materiales, se usan tal cual y fuera de la licencia ([MARCA.md](MARCA.md)). Ver [LICENCIA.md](LICENCIA.md). Cómo citarlo: [CITATION.cff](CITATION.cff).
 
 ## Regenerar los impresos
 
-`herramientas/generar_abierto.py` (MIT) es el código que produce los PDF de `materiales/`. En la versión 1.0 todavía depende del motor de impresos del Tour, que no está en este repositorio; la versión 1.1 lo trae completo para que corra solo. Mientras tanto, los PDF de `materiales/` son la versión oficial.
+`herramientas/generar_abierto.py` y `herramientas/generar_editables.py` (MIT) producen los PDF de `materiales/` y los archivos de `editables/`, con la línea gráfica del Tour Intercolegial (Nunito + Noto Sans, libres). En la versión 1.0 todavía depende del motor de impresos del Tour, que no está en este repositorio; la versión 1.1 lo trae completo para que corra solo. Mientras tanto, los PDF de `materiales/` son la versión oficial.
 
 ## Versiones
 
