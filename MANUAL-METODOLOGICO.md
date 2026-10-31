@@ -3,7 +3,7 @@
 
 **Un taller de 50 minutos para que cada joven escoja una cosa de su vida que quiere mejorar y salga con un plan que aguante el día malo.**
 
-Versión 1.0.1 · 30 de octubre de 2026
+Versión 1.0.2 · 31 de octubre de 2026
 Creado para el Tour Intercolegial de la Semana Global de Emprendimiento en República Dominicana por Fundación Enlata, IAvanza y Fundación Ayudar Me Da Vida.
 
 > **Licencia.** El texto, el mapa y las láminas de este manual se publican bajo Creative Commons Atribución-CompartirIgual 4.0 Internacional (CC BY-SA 4.0): puedes copiarlos, traducirlos, adaptarlos y usarlos, también en programas pagados, siempre que des crédito al equipo autor con la línea de la sección 11 y compartas tu versión con la misma licencia. Los logos del equipo autor van en los materiales, pero no entran en la licencia: se usan tal cual, como dice `MARCA.md`. Los editables (PowerPoint y Word) están en `editables/`. Los métodos de terceros en los que se apoya el taller tienen sus propios autores y condiciones: ver la sección 11. Detalle en `LICENCIA.md`.
@@ -18,6 +18,7 @@ Creado para el Tour Intercolegial de la Semana Global de Emprendimiento en Repú
 | Quien entrena a facilitadores | Todo, sobre todo la 7 |
 | Docente u orientador que quiere usarlo en su aula | 1 a 6, 8 y 9. Te recomendamos vivir el taller antes (sección 7) |
 | Organización que quiere replicarlo | Todo, más `LICENCIA.md`, `MARCA.md` y `CONTRIBUIR.md` |
+| Cualquiera que lo use | Sección 12: condiciones de uso y descargo de responsabilidad |
 
 ---
 
@@ -325,6 +326,24 @@ Fuentes completas en `INSPIRACION-Y-CREADORES.md`.
 Si cambiaste algo, agrega «Adaptado por [tu organización]: [qué cambiaste]». Si cambias el núcleo estable (sección 9), quita los logos y usa otro nombre.
 
 **Cómo citar:**
-Gómez, P., de Windt, H., Fundación Enlata, IAvanza y Fundación Ayudar Me Da Vida (2026). *Mi mapa de 21 días: manual metodológico abierto* (versión 1.0.1). CC BY-SA 4.0.
+Gómez, P., de Windt, H., Fundación Enlata, IAvanza y Fundación Ayudar Me Da Vida (2026). *Mi mapa de 21 días: manual metodológico abierto* (versión 1.0.2). CC BY-SA 4.0.
 
 **Cómo contribuir:** ver `CONTRIBUIR.md`. Si lo diste, cuéntanos qué cambiaste y qué pasó: las mejoras vuelven al manual.
+
+---
+
+## 12. Condiciones de uso y descargo de responsabilidad
+
+Al usar este manual o dar el taller, aceptas estas condiciones.
+
+**Trabajo voluntario.** En el Tour Intercolegial, facilitar es trabajo voluntario y sin pago: no crea relación laboral, de servicios ni de representación con Fundación Enlata, IAvanza ni Fundación Ayudar Me Da Vida. Quien facilita habla como facilitador/a del taller, no como vocero/a de esas organizaciones ni del centro, y sus opiniones personales son suyas. Si lo das en otro programa, las condiciones de quien facilita las fija ese programa.
+
+**Reglas del centro y comportamiento.** Se respeta el reglamento de cada centro o institución que recibe el taller: horarios, entrada y registro, vestimenta, uso del aula y del equipo, y las indicaciones de la dirección y los docentes. **Si una actividad del taller choca con una norma del centro, gana la norma del centro** y se ajusta la actividad. Se mantiene un comportamiento de convivencia común: puntualidad, trato respetuoso con estudiantes y personal, lenguaje apropiado para menores y cuidado de las instalaciones. En el taller no hay proselitismo político ni religioso, no se vende ni se promociona nada, y nadie se presenta bajo efectos del alcohol u otras sustancias ni fuma dentro del centro. No se toman ni guardan datos de estudiantes (sección 8).
+
+**Alcance del taller.** Es una actividad educativa de cultura emprendedora y metas personales. No es terapia, consejería psicológica ni asesoría legal o financiera, y no sustituye al departamento de orientación del centro ni a profesionales. El método se apoya en investigación (sección 10), pero no garantiza resultados para cada estudiante. Los casos delicados siguen la sección 8 y la ley del lugar: este manual no reemplaza el deber de denunciar.
+
+**Referencias, enlaces y marcas.** Las referencias de `INSPIRACION-Y-CREADORES.md` se citan como fundamento e inspiración: sus autores, revistas e instituciones no han revisado ni respaldan este taller. Los enlaces externos llevan a sitios de terceros cuyo contenido y disponibilidad no controlamos. WOOP, Character Lab, la Semana Global de Emprendimiento (Global Entrepreneurship Network) y demás marcas pertenecen a sus dueños; mencionarlas no implica que avalen este material.
+
+**Material «tal cual».** Se ofrece sin garantías, bajo licencia CC BY-SA 4.0. Quien lo use o adapte fuera del Tour responde por su uso y por cumplir las normas de su contexto (protección de la niñez, datos personales, reglamento de la institución), y conserva la línea de crédito de la sección 11.
+
+Condiciones vigentes desde el 31 de octubre de 2026. Dudas: info@enlata.do.

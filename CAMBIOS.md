@@ -1,5 +1,11 @@
 # Cambios
 
+## 1.0.2 · 31-oct-2026
+
+- Sección 12 del manual: condiciones de uso y descargo de responsabilidad (trabajo voluntario, reglas del centro y comportamiento, alcance del taller, referencias y marcas, material «tal cual»).
+- Notas del orador en `PRESENTACION-AULA-16x9.pptx`: minuto, qué hace el estudiante, qué dices y ojo, lámina por lámina (`herramientas/notas_orador.py`).
+- `editables/LAMINA-0-QUIEN-SOY-16x9.pptx`: la lámina «Quién soy» sola, para el facilitador.
+
 ## 1.0.1 · 30-oct-2026
 
 - Línea gráfica del Tour Intercolegial en todos los materiales (carbón, naranja, barra de seis colores), con Nunito en lugar de VAG (libre, SIL OFL).

@@ -24,6 +24,7 @@ from docx.shared import Mm as DMm
 from docx.shared import Pt as DPt
 from docx.shared import RGBColor as DRGB
 from pptx import Presentation
+from notas_orador import texto_nota
 from pptx.dml.color import RGBColor
 from pptx.enum.shapes import MSO_CONNECTOR, MSO_SHAPE
 from pptx.enum.text import MSO_ANCHOR, PP_ALIGN
@@ -204,11 +205,11 @@ def presentacion():
     caja_texto(sl, 20, 140, 298, 20, "Máximo 30 segundos. No va: teléfono, correo, redes personales, precios, "
                "logos de tu empresa ni códigos QR.", 13, RGBColor(0xCC, 0xCC, 0xCC), TXT)
     logos(sl, 12, H - 17, 17, 0.75, W, 7)
-    nota(sl, "Plantilla: cambia el texto por el tuyo. Contar a qué te dedicas no es vender. " + NOTA_CREDITO)
+    nota(sl, texto_nota(0) + "\n\nPlantilla: cambia el texto por el tuyo. " + NOTA_CREDITO)
 
     lam = g.LAMINAS
     orden = [lam[0], lam[1], lam[2], None, lam[3], lam[4]]
-    for item in orden:
+    for i, item in enumerate(orden, start=1):
         sl = prs.slides.add_slide(vacia)
         fondo(sl, CARBON)
         barra(sl, 0, W, 4)
@@ -234,9 +235,19 @@ def presentacion():
                        ancla=MSO_ANCHOR.MIDDLE)
             del r
         logos(sl, 12, H - 17, 17, 0.75, W, 7)
-        nota(sl, NOTA_CREDITO)
+        nota(sl, texto_nota(i) + "\n\n" + NOTA_CREDITO)
     lamina_creditos(prs, W, H, False)
     prs.save(SALIDA / "PRESENTACION-AULA-16x9.pptx")
+    lamina_cero()
+
+
+def lamina_cero():
+    prs = Presentation(SALIDA / "PRESENTACION-AULA-16x9.pptx")
+    lista = prs.slides._sldIdLst
+    for sid in list(lista)[1:]:
+        prs.part.drop_rel(sid.rId)
+        lista.remove(sid)
+    prs.save(SALIDA / "LAMINA-0-QUIEN-SOY-16x9.pptx")
 
 
 # ---------------------------------------------------------------- láminas carta vertical
